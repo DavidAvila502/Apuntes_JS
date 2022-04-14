@@ -48,10 +48,10 @@ if (persona3 >= 18) {
 (!=) diferente - devuelve true si los operandos son diferentes
 (===) igual estricto - devuelve true si los operandos son iguales y del mismo tipo
 (!==) diferente estricto - devuelve true  si los operandos son del mismo tipo pero no iguales, o son de diferente tipo.
-(>) mayor que - devuelve true si el operador izquierdo es mayor al derecho
-(>=) mayor o igual que - devuelve true si el operador izquierdo es mayor o igual al derecho
-(<) menor que - devuelve true si el operador izquierdo es menor al derecho
-(<=) menor o igual que - devuelve true si el operador izquierdo es menor o igual al derecho
+(>) mayor que - devuelve true si el operando izquierdo es mayor al derecho
+(>=) mayor o igual que - devuelve true si el operando izquierdo es mayor o igual al derecho
+(<) menor que - devuelve true si el operando izquierdo es menor al derecho
+(<=) menor o igual que - devuelve true si el operando izquierdo es menor o igual al derecho
 */
 
 //Ejemplo con (==)
