@@ -45,5 +45,5 @@ for (let i = 0; i < 10; i++) {
 }
 /*En el ejemplo anterior indicamos al for repetrise 10 veces
 pero le dijimos que en la vuelta 3 rompiera el bucle con break,
-imprimiendose solo 3 veces ya que el conteo inicia en 0.
+imprimiendose solo 4 veces ya que el conteo inicia en 0.
 */
